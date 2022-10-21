@@ -1,0 +1,6 @@
+package com.example.relationshipnested.mocks.purchases
+
+import com.example.relationshipnested.mocks.widgetGroups.widgetGroupPurchasesSectionBanners1
+import com.example.relationshipnested.mocks.widgetGroups.widgetGroupPurchasesSectionBanners2
+
+val widgetGroupPurchases = widgetGroupPurchasesSectionBanners1 + widgetGroupPurchasesSectionBanners2

@@ -1,0 +1,1 @@
+package com.example.relationshipnested.mocks.entertainmentimport com.example.relationshipnested.models.Sectionimport com.example.relationshipnested.models.Themeval entertainmentSection = Section(    title = "Diversión",    order = 3,    widgets = widgetGroupEntertainment,    theme = Theme(),    icon = "")

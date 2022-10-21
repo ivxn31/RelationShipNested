@@ -1,0 +1,1 @@
+package com.example.relationshipnested.mocks.widgetItemsimport com.example.relationshipnested.models.Bannerval banners = listOf(    Banner("https://picsum.photos/seed/picsum/200/300"),    Banner("https://picsum.photos/seed/picsum/200/300"),    Banner("https://picsum.photos/seed/picsum/200/300"),)
